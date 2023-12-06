@@ -1,0 +1,35 @@
+body
+{
+    background-color: rgb(220, 220, 160);
+    font-family:Arial, Helvetica, sans-serif;
+}
+.contenedor
+{
+
+    width: 50%;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 10px rgba(88, 3, 3, 0.1);
+    background-color: rgb(177, 70, 141);
+}
+h1 {
+    text-align: center;
+    color: #fffafa;
+}
+
+.producto {
+    background-color: #f9f9f9;
+    padding: 10px;
+    margin: 5px; 
+    border-radius: 4px;
+    width:45%;
+    display: inline-block;
+}
+
+.producto p {
+    margin: 5px ;
+    text-align: center;
+}
+
+
