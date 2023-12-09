@@ -1,0 +1,40 @@
+body 
+{
+    background-color: #edbad1;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+strong
+{
+    
+    color: #fcfcfc;
+    font-weight: bold;
+    text-align: center;
+    margin-left: 35%;
+    font-size: 30px;
+}
+
+
+table 
+{
+    
+    width: 70%;
+    border-collapse: collapse;
+    margin-left: 15%;
+    margin-top: 3%;
+   
+}
+
+table, th, td 
+{
+    border: 3px solid #8f6277;
+    padding: 8px;
+    text-align: left;
+    
+}
+
+table tr:hover 
+{
+    background-color: #65515a;
+    color: white;
+}
