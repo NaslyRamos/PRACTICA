@@ -33,7 +33,7 @@ $resultado = mysqli_query($conexion, $consulta);
             echo "<p>PRECIO: " . $fila['precio'] . "</p>";
             echo "</div>";
         }
-        mysqli_close($conexion); // Cerrar la conexión 
+        //mysqli_close($conexion); // Cerrar la conexión 
         ?>
     </div>
 </body>
